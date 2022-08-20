@@ -1,0 +1,38 @@
+body {
+    background-color:aquamarine;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #FF5B00;
+    text-align: center;
+}
+
+h2 {
+    color: #00092C;
+}
+
+nav {
+    text-align: center;
+    font-size: 18px;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+a {
+    padding: 12px 14px;
+    text-decoration: none;
+}
+
+li {
+    color:#D61C4E; 
+    list-style-position: inside;
+    list-style-type: none;
+    text-align: center;
+}
+
+b {
+    color: #2D4059;
+}
