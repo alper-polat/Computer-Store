@@ -22,13 +22,13 @@ p {
 }
 
 a {
-    padding: 12px 14px;
+    padding: 6px 8px;
     text-decoration: none;
 }
 
 li {
-    color:#D61C4E; 
     list-style-position: inside;
+    color:#D61C4E; 
     list-style-type: none;
     text-align: center;
 }
